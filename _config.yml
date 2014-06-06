@@ -5,9 +5,9 @@ paginate: 8
 safe:  false
 
 #Site config
-title: Jekyll Theme
+title: 鱼罗罗欢迎您
 description: Just another Jekyll theme design and code by zhanxin.info.
-keywords: Jekyll Theme
+keywords:
 url: http://coolawk.com
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
@@ -73,4 +73,4 @@ disqus:
 
 duoshuo:
   config: true
-  id: zhanxin
+  id:
