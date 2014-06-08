@@ -14,7 +14,7 @@ category: " Tech "
 
 添加php的build system，如下图所示：
 
-![alt text](./sublime-php.png "fish")
+![alt text](./images/sublime-php.png "fish")
 
 
 选择New Build System,添加如下内容：
@@ -40,4 +40,4 @@ category: " Tech "
 	?>
 
 command +B运行，执行结果如下图所示：
-![alt text](./sublime-php2.png "console")
+![alt text](./images/sublime-php2.png "console")
