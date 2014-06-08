@@ -6,6 +6,7 @@ category: " Tech "
 ---
 
 一直使用vim，没有达到高手级别，所以用vim效率还是不高，打算试试Sublime Text2
+
 本文参考[这篇文章](http://blog.segmentfault.com/tony/1190000000395951 "Title")
 
 
