@@ -1,8 +1,9 @@
 ---
-layout:    post
-title:     在Sublime Text2 中运行PHP
-date:      2014-06-09
-category:  " Tech "
+layout: post
+title: Sublime Text2 中运行PHP
+date: 2014-06-09
+category: " Tech "
+---
 
 ***
 
