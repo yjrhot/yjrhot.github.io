@@ -40,4 +40,4 @@ category: " Tech "
 	?>
 
 command +B运行，执行结果如下图所示：
-![alt text](http://coolawk/images/sublime-php2.png "console")
+![alt text](http://coolawk.com/images/sublime-php2.png "console")
