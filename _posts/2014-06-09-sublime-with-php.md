@@ -14,7 +14,7 @@ category: " Tech "
 
 添加php的build system，如下图所示：
 
-![alt text](./images/sublime-php.png "fish")
+![talk something](http://coolawk.com/images/sublime-php.png "fish")
 
 
 选择New Build System,添加如下内容：
