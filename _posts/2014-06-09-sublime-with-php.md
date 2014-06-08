@@ -5,7 +5,6 @@ date: 2014-06-09
 category: " Tech "
 ---
 
-***
 
 ###本文参考[这篇文章](http://blog.segmentfault.com/tony/1190000000395951 "Title")
 
