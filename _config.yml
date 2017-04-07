@@ -72,5 +72,5 @@ disqus:
   id: piznblog
 
 duoshuo:
-  config: true
+  config: false
   id:
