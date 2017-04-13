@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+#鱼健榕打算用Dinky这个Theme来更新个人主页
 
 [Link to another page](another-page).
 
