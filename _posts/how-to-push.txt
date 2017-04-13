@@ -1,7 +1,0 @@
-git remote set-url origin https://github.com/yjrhot/yjrhot.github.io.git
-
-
-
-git add .
-git commit -m "blabla"
-git push  origin master
