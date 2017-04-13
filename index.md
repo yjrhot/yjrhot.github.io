@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#鱼健榕打算用Dinky这个Theme来更新个人主页
+# [](#header-1)鱼健榕打算用Dinky这个Theme来更新个人主页
 
 [Link to another page](another-page).
 
