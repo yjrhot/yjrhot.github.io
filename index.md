@@ -4,6 +4,9 @@ layout: default
 
 # [](#header-1)鱼健榕打算用Dinky这个Theme来更新个人主页
 
+# [](#header-1)库布齐沙漠-老牛湾活动微信群-二维码
+
+![](yjrhot_leetcode_submissons.jpg)
 [Link to another page](another-page).
 
 There should be whitespace between paragraphs.
