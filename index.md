@@ -4,7 +4,7 @@ layout: default
 
 # [](#header-1)鱼健榕的个人主页
 
-### [](#header-1)[2017-08-31]共完成325题，其中easy 124，medium 180，hard 21 Ranking:7604 https://leetcode.com/yjrhot/
+### [](#header-1)[2017-08-31]共完成325题，其中easy 124，medium 180，hard 21 Ranking:7604          https://leetcode.com/yjrhot/
 ![](leetcode_325.jpg)
 
 ### [](#header-1)[2017 06 - 08]待业期间，考了一个驾照，海淀驾校
