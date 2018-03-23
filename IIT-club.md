@@ -2,9 +2,14 @@
 layout: default
 ---
 
-## Welcome to another page
+## Welcome to  IIT 羽毛球俱乐部
 
-_yay_
-iit
+### [](#header-1) 拟成立IIT羽毛球俱乐部
+
+![](IIT-club.jpg)
+
+### [](#header-1) 缴费明细
+![](money-pay.jpg)
+
 
 [back](./)
