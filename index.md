@@ -19,4 +19,4 @@ layout: default
 ![](leetcode_263.jpg)
 
 
-[Link to another page](another-page).
+[Link to another page](IIT-club).
