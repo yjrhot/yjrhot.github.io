@@ -6,7 +6,7 @@ layout: default
 
 ### [](#header-1) 拟成立IIT羽毛球俱乐部
 
-![](IIT-club.jpg)
+![](IIT-club-big.jpg)
 
 ### [](#header-1) 缴费明细
 ![](money-pay.jpg)
