@@ -8,6 +8,10 @@ layout: default
 <br /> <br />
 <br /> <br />
 
+<span style="font-size:2em"> **第二期:** </span>
+![](money-2.jpg)
+<br /> <br />
+<br /> <br />
 ![](IIT-club-big.jpg)
 
 ### [](#header-1) 缴费明细
