@@ -6,6 +6,7 @@ layout: default
 
 <span style="font-size:2em"> **第一期众筹成功截止，有意参与的师兄弟妹们请关注第二期活动。** </span>
 <br /> <br />
+<br /> <br />
 
 ![](IIT-club-big.jpg)
 
