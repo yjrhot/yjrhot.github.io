@@ -8,7 +8,7 @@ layout: default
 <br /> <br />
 <br /> <br />
 
-<span style="font-size:2em"> **第二期:** </span>
+<span style="font-size:2em"> **在加拿大的娄师兄强烈要支持一下，现开始第二期:** </span>
 ![](money-2.jpg)
 <br /> <br />
 <br /> <br />
